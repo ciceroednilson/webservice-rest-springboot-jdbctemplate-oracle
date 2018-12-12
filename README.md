@@ -1,4 +1,4 @@
-## WWeb Service Rest com Spring Boot, JdbcTemplate e Oracle.
+## Web Service Rest com Spring Boot, JdbcTemplate e Oracle.
 
 ### Introdução.
 
